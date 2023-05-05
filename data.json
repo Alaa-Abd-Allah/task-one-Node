@@ -1,0 +1,8 @@
+[
+    { "id": 1, "fname": "Eman", "age": 30, "city": "Cairo" },
+    { "id": 3, "fname": "Alaa", "age": 20, "city": "Cairo" },
+    { "id": 4, "fname": "Aya", "age": 10, "city": "Beni-Suef" },
+    { "id": 7, "fname": "Omnia", "age": 19, "city": "Cairo" },
+    { "id": 8, "fname": "Arwa", "age": 26, "city": "Beni-Suef" },
+    { "id": 10, "fname": "Manar", "age": 20, "city": "Cairo" }
+]
